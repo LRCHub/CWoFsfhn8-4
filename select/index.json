@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Sky Walking",
+  "base_artist": "MIYEON",
+  "createdAt": "2026-03-22T05:59:58.916109Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sky Walking",
+      "artist": "Miyeon",
+      "has_synced": false,
+      "path": "select/01_Sky_Walking_Miyeon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Walking After Midnight",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/02_Walking_After_Midnight_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Walking Away A Winner",
+      "artist": "Kathy Mattea",
+      "has_synced": true,
+      "path": "select/03_Walking_Away_A_Winner_Kathy_Mattea.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Walking Away A Winner (Album Version)",
+      "artist": "Kathy Mattea",
+      "has_synced": true,
+      "path": "select/04_Walking_Away_A_Winner_(Album_Version)_Kathy_Mattea.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Walking In Memphis",
+      "artist": "Lonestar",
+      "has_synced": true,
+      "path": "select/05_Walking_In_Memphis_Lonestar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Walking Shoes",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/06_Walking_Shoes_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Walking The Floor Over You - 1941 Single Version",
+      "artist": "Ernest Tubb",
+      "has_synced": true,
+      "path": "select/07_Walking_The_Floor_Over_You_-_1941_Single_Version_Ernest_Tubb.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Walking The Floor Over You (1941 Single Version)",
+      "artist": "Ernest Tubb",
+      "has_synced": true,
+      "path": "select/08_Walking_The_Floor_Over_You_(1941_Single_Version)_Ernest_Tubb.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Walking The Floor Over You (1941 Single Version)",
+      "artist": "Ernest Tubb",
+      "has_synced": true,
+      "path": "select/09_Walking_The_Floor_Over_You_(1941_Single_Version)_Ernest_Tubb.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Dangerous Business Walking Out Your Front Door",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/10_It's_Dangerous_Business_Walking_Out_Your_Front_Door_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dead Man Walking",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_Dead_Man_Walking_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dead Man Walking",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_Dead_Man_Walking_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dead Man Walking - Moby Mix 1",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/13_Dead_Man_Walking_-_Moby_Mix_1_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dead Man Walking (Moby Mix 1)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/14_Dead_Man_Walking_(Moby_Mix_1)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dead Man Walking - Moby Mix 2",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/15_Dead_Man_Walking_-_Moby_Mix_2_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dead Man Walking (Moby Mix 2)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/16_Dead_Man_Walking_(Moby_Mix_2)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Walking Dead",
+      "artist": "Young Nudy",
+      "has_synced": false,
+      "path": "select/17_Walking_Dead_Young_Nudy.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Walking & Falling",
+      "artist": "Laurie Anderson",
+      "has_synced": false,
+      "path": "select/18_Walking_&_Falling_Laurie_Anderson.txt"
+    }
+  ]
+}
